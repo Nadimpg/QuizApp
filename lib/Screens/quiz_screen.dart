@@ -73,7 +73,7 @@ class _QuizScreenState extends State<QuizScreen> {
                       "${questions[index].question}",
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 22.0,
+                        fontSize: 22,
                       ),
                     ),
                   ),
